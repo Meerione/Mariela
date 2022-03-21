@@ -1,0 +1,510 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0 auto;
+    width: 1440px;
+}
+
+header{
+    height: 120px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+.mariela{
+    margin-left: 113px;
+}
+
+.first_ul{
+    margin-left: 531px;
+
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-right: 40px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #B08EAD;
+
+}
+.korzina{
+    margin-left: 5px;
+}
+
+.content-1{
+    height: 458px;
+    background: #C9ADC6;
+}
+
+.content-2{
+    height: 359px;
+    background: #D6BBD3;
+}
+
+.poduwka{
+  position: absolute;
+    top: 194px;
+    left: 227px;
+}
+
+.rectangle{
+   position: absolute;
+    top: 303px;
+    left: 950px;
+}
+
+.spring{
+    position: absolute;
+    left: 990px;
+    top: 433px;
+}
+.new, .buy{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+    margin-top: 0;
+
+}
+
+.buy{
+    margin-top: 22px;
+    border: none ;
+    background: #B08EAD;
+    border-bottom: solid ;
+}
+
+.cushion, .collection{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 55px;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.container2{
+    height: 306px;
+    text-align: center;
+
+}
+
+.designer{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    margin-top: 75px;
+}
+
+.california{
+    font-family: Cormorant Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 38px;
+    color: #5F4D5D;
+    margin: 0;
+}
+
+.learn-more{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    border: 1px solid #B99BB6;
+    border-radius: 25px;
+    height: 45px;
+    width: 141px;
+    background-color: white;
+    margin-top: 17px;
+    margin-bottom: 50px;
+}
+
+.girl{
+    margin-right: 37px;
+    margin-bottom: 0;
+}
+
+.podu{
+    margin-right: 37px;
+}
+
+.content-4{
+    display: flex;
+    position: relative;
+    }
+.first, .second, .third{
+    width: 368px;
+    height: 113px;
+    background: #CEB3CB;
+}
+
+.first{
+    position: absolute;
+    top: 240px;
+    left: 127px;
+}
+
+.second{
+    position: absolute;
+    top: 240px;
+    left: 536px;
+}
+
+.third{
+    position: absolute;
+    top: 240px;
+    left: 945px;
+}
+
+.me{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 23px 0 6px 23px;
+}
+
+.more{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0;
+    padding-left: 23px;
+}
+
+.container3{
+    display: flex;
+    margin-top: 415px;
+    margin-left: 114px;
+}
+
+.content-5{
+    width: 607px;
+    height: 457px;
+    padding-left: 41px;
+    padding-top: 110px;
+}
+
+.begin{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+.credibly, .dramatically{
+    font-family: Cormorant Garamond;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+
+}
+
+.credibly{
+    margin: 0;
+    padding-bottom: 10px;
+}
+.dramatically{
+    margin: 0;
+}
+
+.content-6{
+    display: flex;
+    margin-bottom: 40px;
+    margin-left: -39px;
+}
+
+.hr-first{
+    background: #D7B7D4;
+    width: 1215px;
+}
+
+.container4{
+    display: flex;
+}
+
+.content-7{
+    margin: 39px 93px 40px 112px;
+}
+
+.content-8{
+    padding-top: 139px;
+
+}
+
+.carrer{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.collab, .object, .and{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+    margin: 0;
+    padding-bottom: 10px;
+}
+
+.and{
+    padding-bottom: 20px;
+}
+
+.learn-more2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    border: 1px solid #B99BB6;
+    border-radius: 25px;
+    height: 45px;
+    width: 141px;
+    background-color: white;
+}
+
+.big{
+    background: #D7B7D4;
+    width: 1215px;
+}
+.container5{
+    display: flex;
+}
+
+.content-9{
+    padding-left: 173px;
+}
+
+.products{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    color: #B99BB6;
+    margin-top: 122px;
+}
+.seamlessly, .innovate, .energistically{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #5F4D5D;
+
+}
+.content-10{
+    margin: 39px 111px 91px 81px;
+}
+
+.container6{
+    display: flex;
+    gap: 26px;
+}
+
+.a{
+    margin-left: 112px;
+}
+
+.container7{
+    display: flex;
+    /*width: 377px;*/
+    height: 118px;
+    position: relative;
+}
+.cushions{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #5F4D5D;
+    margin-top: 9px;
+    margin-bottom: 7px;
+}
+
+.price{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 17px;
+    text-align: center;
+    color: #B0B0B0;
+    margin: 0;
+}
+
+.content_11{
+    position: absolute;
+    left: 250px;
+}.content_12{
+    position: absolute;
+    left: 650px;
+}.content_13{
+    position: absolute;
+      left: 1020px;
+}
+
+.container8 {
+    display: flex;
+    gap: 26px;
+}
+
+.cont{
+    display: flex;
+    height: 139px;
+    position: relative;
+}
+
+.content-14{
+    position: absolute;
+    left: 250px;
+}
+.content-15{
+     position: absolute;
+     left: 650px;
+ }
+.content-16{
+      position: absolute;
+      left: 1020px;
+  }
+
+.first-block{
+    display: flex;
+    align-items: center;
+    gap: 240px;
+    height: 235px;
+    background: #D6BBD3;
+    padding-left: 317px;
+    margin-top: 135px;
+}
+
+.container10{
+    display: flex;
+    position: relative;
+
+
+}
+
+.shopping{
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+}
+
+.get{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+ }
+
+.content-17{
+    position: absolute;
+    bottom: 6px;
+    left: 307px;
+}
+.content-18{
+    position: absolute;
+    bottom: 6px;
+    left: 633px;
+}
+.content-19{
+    position: absolute;
+    bottom: 6px;
+    left: 950px;
+}
+
+.container11{
+    height: 137px;
+    background: #C9ADC6;
+    display: flex;
+    align-items: center;
+}
+
+.nadpis{
+    margin-left: 487px;
+    margin-right: 64px;
+    margin-bottom: 34px;
+}
+
+.second-ul {
+    padding-top: 40px;
+    padding-bottom: 75px;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 21px;
+    color: #FFFFFF;
+    display: inline-block;
+    list-style: none;
+}
+
+.contact{
+    color: #FFFFFF;
+    font-size: 21px;
+    line-height: 21px
+}
